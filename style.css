@@ -21,6 +21,7 @@ body {
     background-color: #ffdd00;
     color: #000000;
     border-radius: 10px;
+    font-size: 10px;
   }
   .box {
     justify-content: center;
@@ -68,7 +69,7 @@ body {
     position: relative;
     top: 54px;
     margin: 10px 0;
-    font-size: 15px;
+    font-size: 20px;
     color: #000;
     justify-content: space-between;
   }
